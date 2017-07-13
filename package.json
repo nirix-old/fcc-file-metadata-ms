@@ -1,6 +1,9 @@
 {
   "name": "fcc-file-metadata-ms",
   "author": "Jack P.",
+  "engines": {
+    "node": ">=6.11.1"
+  },
   "dependencies": {
     "express": "^4.14.0",
     "multer": "^1.2.0"
